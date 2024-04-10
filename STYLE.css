@@ -1,0 +1,20 @@
+header{
+    background-color: blue;
+    color: aliceblue;
+}
+body{
+    background-color: grey;
+    color: blue;
+}
+h3 {
+ background-color: grey;
+ color: blue;
+}
+h4 {
+    background-color: grey;
+    color: blue;
+}
+footer {
+    background-color: black;
+    color: aliceblue;
+}
